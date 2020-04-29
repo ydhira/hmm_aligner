@@ -416,6 +416,7 @@ AWE                  AA
 AWKWARD              AA K W ER D
 AWOKE                AH W OW K
 AXIS                 AE K S IH S
+B                    B
 BABBLED              B AE B AH L D
 BABOON'S             B AH B UW N Z
 BACK                 B AE K
@@ -754,6 +755,7 @@ BUYS                 B AY Z
 BUZZ                 B AH Z
 BUZZING              B AH Z IH NG
 BY                   B AY
+C                    S IY
 C'MON                K AH M AO N
 CAB                  K AE B
 CABINETS             K AE B AH N AH T S
@@ -1317,6 +1319,7 @@ CUTS                 K AH T S
 CUTTING              K AH D IH NG
 CYCLICAL             S AY K L IH K AH L
 CYNICS               S IH N IH K S
+D                    D IY
 DAD                  D AE D
 DAILY                D EY L IY
 DAMAGE               D AE M AH JH
@@ -1651,6 +1654,7 @@ DYEING               D AY IH NG
 DYING                D AY IH NG
 DYNAMICS             D AY N AE M IH K S
 DYNASTIC             D AY N AE S T IH K
+E                    IY
 EACH                 IY CH
 EAGERLY              IY G ER L IY
 EAGERNESS            IY G ER N AH S
@@ -1913,6 +1917,7 @@ EYEDROPS             AY D R AA P S
 EYELIDS              AY L IH D Z
 EYES                 AY Z
 EYESTRAIN            AY S T R EY N
+F                    IH F
 FABRIC               F AE B R IH K
 FABRICS              F AE B R IH K S
 FACE                 F EY S
@@ -2204,6 +2209,7 @@ FURRIER              F ER IY ER
 FURTHER              F ER DH ER
 FUSS                 F AH S
 FUTURE               F Y UW CH ER
+G                    JH IY
 GAB                  G AE B
 GADFLY               G AE D F L AY
 GADGET               G AE JH AH T
@@ -2400,6 +2406,7 @@ GWEN                 G W EH N
 GYRO                 JH AY R OW
 GYROCOMPASS          G AY R OW K AO M P AH S
 GYROCOMPASS(2)       JH AY R OW K AO M P AH S
+H                    EY CH
 HA                   HH AA
 HABIT                HH AE B AH T
 HAD                  HH AE D
@@ -2850,6 +2857,7 @@ ITEMS                AY D AH M Z
 ITS                  IH T S
 ITSELF               IH T S EH L F
 IVORY                AY V AH R IY
+J                    JH
 JABBED               JH AE B D
 JACKASS              JH AE K AE S
 JACKET               JH AE K AH T
@@ -2899,6 +2907,7 @@ JUNGLE               JH AH NG G AH L
 JUNIOR               JH UW N Y ER
 JUST                 JH AH S T
 JUSTIFICATION        JH AH S T AH F AH K EY SH AH N
+K                    K
 KAYAK                K AY AE K
 KAYO                 K EY OW
 KEELSON              K IY L S AH N
@@ -2943,6 +2952,7 @@ KNOWING              N OW IH NG
 KNOWINGLY            N OW IH NG L IY
 KNOWN                N OW N
 KNOWS                N OW Z
+L                    EH L
 LABELED              L EY B AH L D
 LABOR                L EY B ER
 LABORATORY           L AE B R AH T AO R IY
@@ -3145,6 +3155,7 @@ LUSH                 L AH SH
 LUXURIOUS            L AH G ZH UH R IY AH S
 LUXURY               L AH K SH AH R IY
 LYING                L AY IH NG
+M                    IH M
 MA'AM                M AE M
 MACABRE              M AH K AA B R AH
 MACHINE              M AH SH IY N
@@ -3446,6 +3457,7 @@ MYOPIA               M AY OW P IY AH
 MYSELF               M AY S EH L F
 MYSTERIOUS           M IH S T IH R IY AH S
 MYSTERY              M IH S T AH R IY
+N                    EH N 
 NAGGING              N AE G IH NG
 NAILED               N EY L D
 NAILS                N EY L Z
@@ -3562,6 +3574,7 @@ NUTRIENTS            N UW T R IY AH N T S
 NUTRITION            N UW T R IH SH AH N
 NUTS                 N AH T S
 NYMPHOMANIACS        N IH M F AH M EY N IY AE K S
+O                    OW 
 O'                   OW
 O'CLOCK              AH K L AA K
 OAK                  OW K
@@ -3729,6 +3742,7 @@ OWNER                OW N ER
 OWNS                 OW N Z
 OYSTER               OY S T ER
 OYSTERS              OY S T ER Z
+P                    P 
 PA                   P AA
 PACE                 P EY S
 PACK                 P AE K
@@ -4182,6 +4196,7 @@ PUSH                 P UH SH
 PUT                  P UH T
 PUZZLEMENT           P AH Z AH L M AH N T
 PUZZLING             P AH Z AH L IH NG
+Q                    K Y UW
 QUACKERY             K W AE K AH R IY
 QUALITY              K W AA L AH D IY
 QUARREL              K W AA R AH L
@@ -4199,6 +4214,7 @@ QUIETLY              K W AY AH T L IY
 QUINCE               K W IH N S
 QUITE                K W AY T
 QUOTE                K W OW T
+R                    AW ER 
 RABBIT               R AE B AH T
 RABBITS              R AE B AH T S
 RABIES               R EY B IY Z
@@ -4524,6 +4540,7 @@ RURAL                R UH R AH L
 RUSHING              R AH SH IH NG
 RUST                 R AH S T
 RUSTLING             R AH S AH L IH NG
+S                    EH S 
 SACRIFICE            S AE K R AH F AY S
 SACRIFICIAL          S AE K R AH F IH SH AH L
 SADDLEBAGS           S AE D AH L B AE G Z
@@ -5291,6 +5308,7 @@ SYNONYMOUS           S IH N AA N AH M AH S
 SYRUP                S IH R AH P
 SYSTEM               S IH S T AH M
 SYSTEMS              S IH S T AH M Z
+T                    T IY 
 TABLE                T EY B AH L
 TABLECLOTHS          T EY B AH L K L AA TH S
 TABLES               T EY B AH L Z
@@ -5640,6 +5658,7 @@ TYPICAL              T IH P IH K AH L
 TYPICALLY            T IH P IH K L IY
 TYRANNICAL           T IH R AE N IH K AH L
 TYRANNY              T IH R AH N IY
+U                    Y UW 
 UGLY                 AH G L IY
 ULTRASONIC           AH L T R AH S AA N IH K
 UMBRELLA             AH M B R EH L AH
@@ -5750,6 +5769,7 @@ UTMOST               AH T M OW S T
 UTOPIANISM           Y UW T OW P IY AH N IH Z AH M
 UTOPIANS             Y UW T OW P IY AH N Z
 UTTER                AH D ER
+V                    W IY 
 VACANT               V EY K AH N T
 VACATION             V EY K EY SH AH N
 VACUUM               V AE K Y UW M
@@ -5846,6 +5866,7 @@ VOLUNTEERED          V AA L AH N T IH ER D
 VOLUNTEERS           V AA L AH N T IH ER Z
 VOTES                V OW T S
 VOYAGE               V OY IH JH
+W                    D AH B AH L Y UW
 WADDED               W AA D AH D
 WAGE                 W EY JH
 WAGON                W AE G AH N
@@ -6062,6 +6083,7 @@ WRITTEN              R IH T AH N
 WRONG                R AA NG
 WROTE                R OW T
 X                    EH K S
+Y                    W AY 
 Y'ALL                Y AA L
 YA                   Y AA
 YACHT                Y AA T
@@ -6094,6 +6116,7 @@ YOUR                 Y ER
 YOURS                Y ER Z
 YOURSELF             Y ER S EH L F
 YOUTH                Y UW TH
+Z                    Z IY 
 ZAGGED               Z AE G D
 ZEAL                 Z IY L
 ZEALOUS              Z EH L AH S
